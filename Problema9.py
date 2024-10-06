@@ -38,7 +38,7 @@ def ejecutar_opcion(opcion):
     elif opcion == 4:
         print("Saliendo del programa...")
     else:
-        print("Opción no válida. Por favor, elige una opción entre 1 y 4.")
+        print("Opción no válida. Por favor, elige una opción entre 1 y 4")
 
 def main():
     while True:
